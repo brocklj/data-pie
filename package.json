@@ -1,5 +1,5 @@
 {
-  "name": "data-viz",
+  "name": "data-pie",
   "version": "1.0.0",
   "description": "Simple data visualization.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "webpack --config webpack.config.js"
   },
   "keywords": [
-    "d3.js"
+    "d3, js"
   ],
   "author": "Jakub Brockl",
   "license": "ISC",

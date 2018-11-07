@@ -1,0 +1,17 @@
+{
+  "name": "data-viz",
+  "version": "1.0.0",
+  "description": "Simple data visualization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3.js"
+  ],
+  "author": "Jakub Brockl",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3": "^5.0.1"
+  }
+}
